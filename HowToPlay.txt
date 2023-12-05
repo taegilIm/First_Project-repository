@@ -1,4 +1,5 @@
 # First_Project-repository
+----------------- UTP-8 ONLY -----------------------------
 First Project (simple game thing)
 
 Simple Console Game
